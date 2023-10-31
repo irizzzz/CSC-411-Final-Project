@@ -1,0 +1,120 @@
+﻿story,sday,smonth,eday,emonth,year,sdate,edate,place,ccb
+Economy,31,1,22,5,2010,2010-01-31,2010-05-22,North America,24
+Health care reform,21,3,27,3,2010,2010-03-21,2010-03-27,North America,12.4
+New Ariz. Immig. Law,25,4,8,5,2010,2010-04-25,2010-05-08,North America,22.9
+Time square bomber,1,5,9,5,2010,2010-05-01,2010-05-09,North America,9.6
+Oil leak in Gulf,16,5,12,6,2010,2010-05-16,2010-06-12,Global,1
+Ariz. Immig. Ruling,25,7,1,8,2010,2010-07-25,2010-08-01,North America,4.7
+iraq troop withdrawal,22,8,27,8,2010,2010-08-22,2010-08-27,Global,7.8
+Extend jobless benefits,3,10,9,10,2010,2010-10-03,2010-10-09,North America,11.5
+Chilean miners,10,10,16,10,2010,2010-10-10,2010-10-16,Global,9.2
+Midterm elections,31,10,6,11,2010,2010-10-31,2010-11-06,North America,10
+Senate election,31,10,6,11,2010,2010-10-31,2010-11-06,North America,10
+Cold winter weather,28,11,11,12,2010,2010-11-28,2010-12-11,North America,10.4
+Debate over tax cuts,28,11,12,12,2010,2010-11-28,2010-12-12,North America,9.9
+Arizona Shooting,8,1,15,1,2011,2011-01-08,2011-01-15,North America,2.3
+Egypt protests,30,1,5,2,2011,2011-01-30,2011-02-05,Global,5.3
+Violence in Libya,20,2,26,2,2011,2011-02-20,2011-02-26,Global,4.2
+Gas and oil prices,24,2,18,6,2011,2011-02-24,2011-06-18,North America,7.7
+Government shutdown fight,3,3,9,3,2011,2011-03-03,2011-03-09,North America,3.6
+Libya airstrikes,20,3,26,3,2011,2011-03-20,2011-03-26,Global,5.9
+Bin Laden killed,2,5,7,5,2011,2011-05-02,2011-05-07,North America,3.5
+July heat wave,17,7,23,7,2011,2011-07-17,2011-07-23,North America,11.2
+Debt limit deal,31,7,6,8,2011,2011-07-31,2011-08-06,North America,7.8
+U.S troops killed,6,8,13,8,2011,2011-08-06,2011-08-13,North America,8.8
+9/11 aniversary,4,9,14,9,2011,2011-09-04,2011-09-14,North America,13.1
+Iraq troops withdrawl,16,10,23,10,2011,2011-10-16,2011-10-23,Global,3.9
+Penn State scandal,6,11,12,11,2011,2011-11-06,2011-11-12,North America,5.8
+Trayvon Martin,18,3,31,3,2012,2012-03-18,2012-03-31,North America,8.9
+Libya investigation,15,4,20,4,2012,2012-04-15,2012-04-20,Global,5
+Obama supports Gay marriage,9,5,12,5,2012,2012-05-09,2012-05-12,North America,5
+CO theater shooting,20,7,22,7,2012,2012-07-20,2012-07-22,North America,9
+Summer Olympics,22,7,4,8,2012,2012-07-22,2012-08-04,Global,12.9
+Supreme Court healthcare ruling,24,7,30,7,2012,2012-07-24,2012-07-30,North America,16.4
+Attack in Libya,11,9,15,9,2012,2012-09-11,2012-09-15,Global,1
+Presidential election,4,11,10,11,2012,2012-11-04,2012-11-10,North America,10.8
+CT school shooting,9,12,15,12,2012,2012-12-09,2012-12-15,North America,16.3
+Fiscal cliff negotiations,23,12,31,12,2012,2012-12-23,2012-12-31,North America,10.9
+Gun control,13,1,19,1,2013,2013-01-13,2013-01-19,North America,12.4
+Gay couples tax benefits ,24,3,30,3,2013,2013-03-24,2013-03-30,North America,10.3
+Boston marathon bombing,15,4,20,4,2013,2013-04-15,2013-04-20,North America,2.75
+IRS Overreaches,12,5,18,5,2013,2013-05-12,2013-05-18,North America,4
+Snowden Leaks,9,6,6,7,2013,2013-06-09,2013-07-06,North America,23.2
+Gay marriage allowed,23,6,29,6,2013,2013-06-23,2013-06-29,North America,55.9
+George Zimmerman acquitted,12,7,18,7,2013,2013-07-12,2013-07-18,North America,1.6
+Detroit bankruptcy,14,7,20,7,2013,2013-07-14,2013-07-20,North America,1.75
+Federal Government shuts down,29,9,5,10,2013,2013-09-29,2013-10-05,North America,6.1
+Obamacare,29,9,12,10,2013,2013-09-29,2013-10-12,North America,6.9
+Winter Olympics,8,2,22,2,2014,2014-02-08,2014-02-22,Global,53
+Fighting in Ukraine,16,2,2,3,2014,2014-02-16,2014-03-02,North America,55.9
+Malaysian Airlines,8,3,25,3,2014,2014-03-08,2014-03-25,Global,20.6
+Israel Hamas conflict,13,7,2,8,2014,2014-07-13,2014-08-02,Global,6.9
+Robin Williams death,10,8,16,8,2014,2014-08-10,2014-08-16,North America,3.4
+Michael Brown killed,15,8,23,8,2014,2014-08-15,2014-08-23,North America,3.6
+Rise of ISIS,17,8,27,9,2014,2014-08-17,2014-09-27,Global,22.9
+Robot lands on comet,17,8,23,8,2014,2014-08-17,2014-08-23,Global,2.5
+Joan Rivers death,31,8,6,9,2014,2014-08-31,2014-09-06,North America,14.7
+Midterm Elections,2,11,8,11,2014,2014-11-02,2014-11-08,North America,9.3
+USA and Cuba relations,17,12,20,12,2014,2014-12-17,2014-12-20,North America,23.3
+The dress,22,2,28,2,2015,2015-02-22,2015-02-28,Global,16.4
+Germanwings flight 9525,24,3,28,3,2015,2015-03-24,2015-03-28,Global,8.6
+Climate Change accord,26,4,2,5,2015,2015-04-26,2015-05-02,Global,6
+Transgender movement,1,5,6,6,2015,2015-05-01,2015-06-06,North America,19.3
+Pope Francis comes to America,31,5,6,6,2015,2015-05-31,2015-06-06,North America,15.7
+Charleston church massacre,17,6,20,6,2015,2015-06-17,2015-06-20,North America,31.5
+Same sex marriage,21,6,27,6,2015,2015-06-21,2015-06-27,North America,21
+Nuclear deal with Iran,12,7,18,7,2015,2015-07-12,2015-07-18,North America,8.8
+Black lives matter,9,8,6,9,2015,2015-08-09,2015-09-06,North America,22.6
+Migrant crisis,30,8,9,9,2015,2015-08-30,2015-09-09,Global,38.2
+NASA discoveries,27,9,3,10,2015,2015-09-27,2015-10-03,North America,26.3
+Paris attack,13,11,15,11,2015,2015-11-13,2015-11-15,Global,20
+San Bernardio shooting,2,12,5,12,2015,2015-12-02,2015-12-05,North America,24.5
+Flint Water Crisis,17,1,23,1,2016,2016-01-17,2016-01-23,North America,11.1
+Syria peace talks,24,1,13,2,2016,2016-01-24,2016-02-13,Global,12
+Primary Season,21,2,23,3,2016,2016-02-21,2016-03-23,North America,9.8
+Harriet Tuban on 20$ Bill,3,3,9,3,2016,2016-03-03,2016-03-09,North America,3.7
+Prince Dies,17,4,21,4,2016,2016-04-17,2016-04-21,North America,5.2
+Freddie Gray case,22,5,28,5,2016,2016-05-22,2016-05-28,North America,26.3
+Obama visits Hiroshima,22,5,29,5,2016,2016-05-22,2016-05-29,Global,25
+Shooting at Orlando nightclub,12,6,18,6,2016,2016-06-12,2016-06-18,North America,4.5
+Brexit,19,6,25,6,2016,2016-06-19,2016-06-25,Global,9
+Pokemon Go,10,7,20,7,2016,2016-07-10,2016-07-20,Global,6.8
+Bastille Day Terrorism,14,7,16,7,2016,2016-07-14,2016-07-16,Global,7.7
+DNC Emails hacked,24,7,30,7,2016,2016-07-24,2016-07-30,North America,25
+Summer Olympics,7,8,20,8,2016,2016-08-07,2016-08-20,Global,6.3
+Trump wins election,8,11,12,11,2016,2016-11-08,2016-11-12,North America,18
+Fake news,9,1,23,2,2017,2017-01-09,2017-02-23,Global,17.2
+Women's March,15,1,21,1,2017,2017-01-15,2017-01-21,North America,34.1
+Trump Travel ban,29,1,7,2,2017,2017-01-29,2017-02-07,North America,2.8
+Tensions with North Korea,16,4,22,4,2017,2017-04-16,2017-04-22,Global,31
+James Comey's firing,4,6,10,6,2017,2017-06-04,2017-06-10,North America,38.9
+Violent rally in Charlottesville,13,8,19,8,2017,2017-08-13,2017-08-19,North America,9.4
+Solar eclipse,20,8,25,8,2017,2017-08-20,2017-08-25,Global,6
+NFL players kneel,24,9,30,9,2017,2017-09-24,2017-09-30,North America,5.7
+Mass shooting in Las Vegas,1,10,7,10,2017,2017-10-01,2017-10-07,North America,3.8
+MeToo Movement,15,10,21,10,2017,2017-10-15,2017-10-21,Global,5
+Russia Investigation,29,10,3,11,2017,2017-10-29,2017-11-03,North America,3.6
+Mass shooting in Sutherland Springs,5,11,10,11,2017,2017-11-05,2017-11-10,North America,7.5
+Alabama election,10,12,16,12,2017,2017-12-10,2017-12-16,North America,9.6
+Bitcoin crashes,14,1,10,2,2018,2018-01-14,2018-02-10,Global,7.2
+Puerto Rico without electricity,28,1,3,2,2018,2018-01-28,2018-02-03,Global,7.9
+Facebook's Cambridge Analytical scandal,19,3,9,4,2018,2018-03-19,2018-04-09,North America,8.9
+Net neutrality,13,5,16,6,2018,2018-05-13,2018-06-16,North America,10.6
+Iraqi election ,13,5,19,5,2018,2018-05-13,2018-05-19,Global,5.3
+Royal wedding ,13,5,19,5,2018,2018-05-13,2018-05-19,Global,5.3
+North Korea will denuclearize ,10,6,16,6,2018,2018-06-10,2018-06-16,Global,5.2
+Thailand kids stranded in cave,8,7,14,7,2018,2018-07-08,2018-07-14,Global,6.3
+Puerto Rico without electricity,26,8,29,9,2018,2018-08-26,2018-09-29,Global,7.7
+MeToo Movement,7,10,13,10,2018,2018-10-07,2018-10-13,Global,25
+Jayme Closs found alive,1,1,13,1,2019,2019-01-01,2019-01-13,North America,21
+Brexit ,13,1,19,1,2019,2019-01-13,2019-01-19,Global,9.3
+Jussie Smollett fake hate crime,17,2,23,2,2019,2019-02-17,2019-02-23,North America,41
+Russian interference in 2016 election,24,2,2,3,2019,2019-02-24,2019-03-02,North America,56.8
+Ivy league college bribes ,10,3,16,3,2019,2019-03-10,2019-03-16,North America,54.3
+Boeing 737 Max Planes,11,3,16,3,2019,2019-03-11,2019-03-16,Global,55.8
+New Zealand mass shooting,15,3,17,3,2019,2019-03-15,2019-03-17,Global,75
+First image of a black hole,7,4,13,4,2019,2019-04-07,2019-04-13,Global,31.9
+Notre Dame burns,15,4,20,4,2019,2019-04-15,2019-04-20,Global,9.8
+Royal Baby,7,5,9,5,2019,2019-05-07,2019-05-09,Global,17.7
+Russian interference in 2016 election,2,6,8,6,2019,2019-06-02,2019-06-08,North America,99.3
+Brexit ,13,10,19,10,2019,2019-10-13,2019-10-19,Global,24.9
